@@ -1,0 +1,9 @@
+import distributions_infinite_dimensional_spaces_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace distributions_infinite_dimensional_spaces_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end distributions_infinite_dimensional_spaces_lemma_canonical_lane_mathlib
+end HautevilleHouse
